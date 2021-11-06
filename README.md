@@ -11,6 +11,8 @@ Once we have those installed, we only need one command to install Truffle:
 
 > npm install -g truffle
 
+Then, the next commands to run the project:
+
 > truffle compile
 
 > truffle migrate
