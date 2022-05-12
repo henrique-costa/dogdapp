@@ -1,4 +1,4 @@
-# dogdapp
+# dogdapp - Ethereum Blockchain Smart Contract 
 
 TCC project
 
